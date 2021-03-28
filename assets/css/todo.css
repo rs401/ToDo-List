@@ -7,7 +7,7 @@ body {
 
 #container {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-  width: 360px;
+  width: 640px;
   background: #b3cde0;
   margin: 100px auto;
 }
