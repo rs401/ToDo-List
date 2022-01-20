@@ -13,7 +13,7 @@ body {
 }
 
 .completed {
-  color: green;
+  color: #f6be00;
   text-decoration: line-through;
 }
 
@@ -33,14 +33,16 @@ ul {
 }
 
 li {
-  background: #6497b1;
+  background: #009cde;
   height: 40px;
   line-height: 40px;
-  color: #444;
+  color: #fff;
+  font-size: 18px;
 }
 
 li:nth-child(2n) {
-  background: #b3cde0;
+  background: #00637c;
+  font-size: 18px;
 }
 
 input {
